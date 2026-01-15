@@ -31,7 +31,7 @@
 
 <br>
 
-<div align="left">
+<div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
@@ -42,8 +42,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 </div>
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxTectationxxx/xxxTectationxxx/output/github-contribution-grid-snake-dark.svg">
