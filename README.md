@@ -1,7 +1,5 @@
 <h2 align="left">Hello World👋! <br>My name is Dewa and I'm a Cybersecurity Enthusiast, from Indonesia</h2>
 
-<br>
-
 <table>
   <tr>
     <td valign="center" width="50%">
