@@ -32,13 +32,13 @@
 <div align="left" >
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo" />
-  <img width="12" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
+  <img width="50" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
-  <img width="12" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
+  <img width="50" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 </div>
 
