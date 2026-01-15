@@ -50,9 +50,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxTectationxxx/xxxTectationxxx/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxxTectationxxx/xxxTectationxxx/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xxxTectationxxx.xxxTectationxxx&" />
-</div>
