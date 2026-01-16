@@ -1,5 +1,10 @@
 <h2 align="left">Hello World👋! <br>My name is Dewa and I'm a Cybersecurity Enthusiast, from Indonesia</h2>
 
+---
+- **🔴 Offensive:** Identifying web vulnerabilities (OWASP Top 10) and Privilege Escalation on Linux/Windows.
+- **🔵 Defensive:** Incident Response, Forensic Analysis, and Log Monitoring through HTB Sherlocks.
+- **✍️ Documentation:** Writing detailed technical reports to bridge the gap between exploitation and remediation [GitHub Pages](https://github.com/xxxTectationxxx/Cyber-HTB-Portfolio).
+
 <table>
   <tr>
     <td valign="center" width="50%">
