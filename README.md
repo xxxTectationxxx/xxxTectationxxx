@@ -3,7 +3,7 @@
 ---
 - **🔴 Offensive:** Identifying web vulnerabilities (OWASP Top 10) and Privilege Escalation on Linux/Windows.
 - **🔵 Defensive:** Incident Response, Forensic Analysis, and Log Monitoring through HTB Sherlocks.
-- **✍️ Documentation:** Writing detailed technical reports to bridge the gap between exploitation and remediation [GitHub Pages](https://github.com/xxxTectationxxx/Cyber-HTB-Portfolio).
+- **✍️ Documentation:** Crafting detailed PoC and technical walkthroughs for HTB Offensive & Defensive labs [GitHub Pages](https://github.com/xxxTectationxxx/Cyber-HTB-Portfolio).
 
 <table>
   <tr>
